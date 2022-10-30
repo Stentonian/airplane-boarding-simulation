@@ -10,7 +10,7 @@ You will need NetLogo to run the simulation. All downloads and docs can be found
 
 ## Details of the sim
 
-![Full run](/Screenshots/screencast.gif)
+![Full run](/Screenshots/full_run.gif)
 
 ### Screenshots
 
