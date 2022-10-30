@@ -12,7 +12,7 @@ You will need NetLogo to run the simulation. All downloads and docs can be found
 
 ### Screenshots
 
-![Start](/airplane-boarding-simulation/Screenshots/start.png?raw=true "Start")
+![Start](/Screenshots/start.png?raw=true "Start")
 
 ### Features
 
